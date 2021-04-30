@@ -1,7 +1,7 @@
 {
-    "name": "actuallymab/laravel-comment",
+    "name": "nayeshdaggula/laravel-comment",
     "type": "library",
-    "description": "Just another comment system for your awesome Laravel project.",
+    "description": "Its upgraded comment system for your awesome Laravel project from https://github.com/actuallymab/laravel-comment",
     "keywords": [
         "actuallymab",
         "laravel-comment"
